@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StoreSettings",
+        "repositoryURL": "/Users/01478596/Desktop/Work/fr-iOS/FREAR-26/fr-ios-framework-store-settings",
+        "state": {
+          "branch": "FREAR-26",
+          "revision": "6afca84adaf289832c152fd7d28b872ea82cc86f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
